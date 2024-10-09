@@ -6,10 +6,11 @@ permalink: /
 ---
 
 # virtual void - a vocabulary library for programming in the large
-{: .fs-9 }
-terms and definitions
 
-{: .fs-6 .fw-300 }
+
+terms and definitions
+{: .fs-9 }
+
 ##  interfaces
 
 ## erased interfaces
