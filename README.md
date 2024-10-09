@@ -1,4 +1,4 @@
-# virtual void : some vocabulary for progrmming in the large
+# virtual void : some vocabulary for programming in the large
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
