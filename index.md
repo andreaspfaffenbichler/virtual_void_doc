@@ -6,13 +6,18 @@ permalink: /
 ---
 
 # virtual void - a vocabulary library for programming in the large
-# terms and definitions
+# terms and definitions in context of this documentation
 
-##  interface
+##  erased interface
+an object, whitch , members are function pointers, and every function has as first parameter "self". This is a pointer to (eventually const )void.
 
-## erased interface
+##  implemented interface
+an object derived from an interface, with no additional members and where all members point to vaild functions.
+Thes funtion are filled by a templated consztuctuer. The pemplate parameter is called the erased type.
+These functions cast the self parameter to a pointer to the erased type, and delegete via this pointer to the function, for witch this was erased through self.
 
 ## lifetime holder
+An object with manages the lifetime of an other object. There are 
 ### observer
 ### shard const
 ### unique
