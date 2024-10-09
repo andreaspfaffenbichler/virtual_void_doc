@@ -5,8 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Terms and definitions
+# virtual void - a vocabulary library for programming in the large
+{: .fs-9 }
+terms and definitions
 
+{: .fs-6 .fw-300 }
 ##  interfaces
 
 ## erased interfaces
