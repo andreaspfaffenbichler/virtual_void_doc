@@ -1,11 +1,8 @@
 ---
-title: virtual void
-layout: home
-nav_order: 1
-permalink: /
+title: terms and definitions
+nav_order: 2
 ---
 
-# virtual void - a vocabulary library for programming in the large
 # terms and definitions in context of this documentation
 
 ##  erased interface
