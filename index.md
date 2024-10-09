@@ -8,11 +8,15 @@ permalink: /
 # virtual void - a vocabulary library for programming in the large
 # terms and definitions
 
-##  interfaces
+##  interface
 
-## erased interfaces
+## erased interface
 
-## lifetime holders
+## lifetime holder
+### observer
+### shard const
+### unique
+### value
 
 ## erased lifetime holders
 
