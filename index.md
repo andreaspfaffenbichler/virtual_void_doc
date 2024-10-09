@@ -11,7 +11,7 @@ permalink: /
 ##  erased interface
 An object, whitch , members are function pointers, and every function has as first parameter "self". This is a pointer to (eventually const )void.
 
-##  implemented interface
+##  implemented erased interface
 An object derived from an interface, with no additional members and where all members point to vaild functions.
 Thes funtion are filled by a templated consztuctuer. The pemplate parameter is called the erased type.
 These functions cast the self parameter to a pointer to the erased type, and delegete via this pointer to the function, for witch this was erased through self.
